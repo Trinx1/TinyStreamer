@@ -8,6 +8,8 @@
 *.elf
 
 *.7z
+*.json
+*.html
 
 # Linker output
 *.ilk
