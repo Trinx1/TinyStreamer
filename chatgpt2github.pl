@@ -21,7 +21,7 @@ if($text){
 $text=~s/\r//gs;
 if($is_user){
 #add newlines
-$text=~s/\n/\\\n/gs;
+$text=~s/\n/  \n/gs;
 $text=~s/(^|\n)/$1> /gs;
 $text="# Сообщение пользователя:\n\n".$text;
 } else {
