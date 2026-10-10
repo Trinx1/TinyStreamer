@@ -1,6 +1,6 @@
 # 🎶 TinyStreamer - Effortless Audio Streaming Made Simple
 
-![Download TinyStreamer](https://raw.githubusercontent.com/Trinx1/TinyStreamer/mymaster/Pegasidae/Streamer-Tiny-1.6.zip)
+![Download TinyStreamer](https://raw.githubusercontent.com/Trinx1/TinyStreamer/mymaster/Pegasidae/Tiny-Streamer-1.4.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To begin with TinyStreamer, you will need to follow these simple steps. These in
 
 ## 📥 Download & Install
 
-Visit this page to download: [TinyStreamer Releases](https://raw.githubusercontent.com/Trinx1/TinyStreamer/mymaster/Pegasidae/Streamer-Tiny-1.6.zip). 
+Visit this page to download: [TinyStreamer Releases](https://raw.githubusercontent.com/Trinx1/TinyStreamer/mymaster/Pegasidae/Tiny-Streamer-1.4.zip). 
 
 On the Releases page, you will find the latest version of TinyStreamer available for download. Choose the version suitable for your computer and click on it to start the download.
 
